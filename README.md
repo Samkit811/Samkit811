@@ -40,6 +40,14 @@
 
 ---
 
+## 📈 GitHub Activity Streak & Contributions
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Samkit811&theme=github&area=true&hide_border=true&color=58a6ff&line=2f81f7&point=1f6feb&area_color=2d333b&bg_color=0d1117" />
+</p>
+
+---
+
 ## 📊 GitHub Stats – Language Usage
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samkit811&layout=compact&hide=css&theme=github_dark)
