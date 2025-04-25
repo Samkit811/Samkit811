@@ -50,7 +50,7 @@
 
 ## 📊 GitHub Stats – Language Usage
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samkit811&layout=compact&hide=css&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samkit811&layout=compact&langs_count=10&hide=css&theme=github_dark)
 
 ---
 
